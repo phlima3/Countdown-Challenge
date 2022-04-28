@@ -30,10 +30,18 @@ On this project I worked alone:
   </tr>
 </table>
   
+  ## 📝 Licença
+
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+
+  
   ## Thanks for you atenction!
   
   <b>Contact 📬</b>
   <p>psantoslima86@gmail.com</p>
+  
+  
 
 
 
