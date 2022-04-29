@@ -5,6 +5,10 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
+  font-family: 'Poppins' , sans-serif;
+}
+img{
+    width: 100%;
 }
 
 :root {
@@ -13,3 +17,18 @@
   --light-grey: #c8c8c8;
   --text-color: #9c9ab6;
 }
+
+.img-top{
+    width: 100%;
+}
+.img-bottom{
+    position: relative;
+    top: 61.5%;
+    width: 100%;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+
